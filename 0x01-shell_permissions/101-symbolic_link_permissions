@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x vincent: staff-hello
+chown -h vincent=staff _hell0
